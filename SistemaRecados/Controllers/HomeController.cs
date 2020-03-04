@@ -15,7 +15,7 @@ namespace SistemaRecados.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Sistema Recados tem o objetivo de apresentar documentos .";
 
             return View();
         }
